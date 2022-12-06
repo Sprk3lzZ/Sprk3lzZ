@@ -6,6 +6,6 @@
 
 <p align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Matrix.gif" alt="Matrix" height="240px"/> </p>
 <p align="center">
-![Lethargi's stats](https://github-readme-stats.vercel.app/api?username=Sprk3lzZ&hide_border=true&title_color=753BFA&icon_color=753BFA)
+<img src="![Lethargi's stats](https://github-readme-stats.vercel.app/api?username=Sprk3lzZ&hide_border=true&title_color=753BFA&icon_color=753BFA)"/>
  </p>
 ---
