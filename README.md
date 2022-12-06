@@ -11,6 +11,7 @@
 <h3 align="left">Languages and Tools</h3>
 <p>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px" style="padding-right:10px;" />
+<img align="left" src="https://cdn.python.net/gh/devicons/devicon/icons/python/python.svg" alt="MySQL" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26px" style="padding-right:10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="26px" style="padding-right:10px;" />
