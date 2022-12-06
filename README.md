@@ -25,7 +25,8 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yaniszeghiche/#gh-light-mode-only" target="blank"><img align="center" src="./img/linkedin-light.svg" alt="yaniszeghiche" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yaniszeghiche/#gh-dark-mode-only" target="blank"><img align="center" src="./img/linkedin-dark.svg" alt="quentin treheux" height="30" width="40" /></a>
+</p>
 </p>
 
 ---
