@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Matrix.gif" alt="Matrix" height="240px"/> </p>
 
-![Lethargi's stats](https://github-readme-stats.vercel.app/api?username=Sprk3lzZ_icons=true&hide_border=true&title_color=753BFA&icon_color=753BFA)
+![Lethargi's stats](https://github-readme-stats.vercel.app/api?username=Sprk3lzZ&hide_border=true&title_color=753BFA&icon_color=753BFA)
 ![Lethargi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sprk3lzZ&hide=html,java&hide_border=true&title_color=753BFA&layout=compact)
 
 ---
