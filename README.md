@@ -2,7 +2,6 @@
 
 <h2> I'm an embedded developer :) </h2>
 
-- 🚧 Current Project: [KralaTouch][kralatouch], [Ougahdget][ougahdget]
-- 📍 Previous work: [Bwuno][bwuno], [DT-Price][dt-price] and [Epitech Survival Kit][epitech-survival-kit]
+- 🚧 Current Project: CPOOL EPITECH, POC for Socianova, some project for learn languages.
 
 <p align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Matrix.gif" alt="Matrix" height="240px"/> </p>
