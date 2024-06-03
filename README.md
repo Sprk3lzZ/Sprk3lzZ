@@ -1,11 +1,10 @@
-# 👋 Salut, moi c'est YANIS ZEGHICHE!
+# 👋 Salut, moi c'est YANIS ZEGHICHE !
 
 ### 🚀 À propos de moi
 
 Passionné de technologie et de développement, je suis toujours à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir. Voici un aperçu de ce que je fais :
 
-- 🌱 Actuellement, j'apprends tout ce qui touche à l'intelligence artificielle et au machine learning.
-- 🔭 Je travaille sur plusieurs projets open source et j'adore collaborer avec d'autres développeurs.
+- 🌱 Actuellement, j'apprends tout ce qui touche à l'intelligence artificielle au Scrum et au Lean Management.
 - 💬 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet.
 
 ### 🛠️ Technologies et outils
@@ -33,9 +32,9 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 
 ### 🏆 Réalisations et projets
 
-- **[Nom du Projet 1](lien_vers_le_projet)**: Une courte description du projet et de ce qu'il accomplit.
-- **[Nom du Projet 2](lien_vers_le_projet)**: Une courte description du projet et de ce qu'il accomplit.
-- **[Nom du Projet 3](lien_vers_le_projet)**: Une courte description du projet et de ce qu'il accomplit.
+- **[Epitech 1st year](https://github.com/Sprk3lzZ/Epitech-2027/tree/main/Tek1)**: L'entièreté de mes projets de première année à Epitech Lille.
+- **[MySpotify](https://github.com/Sprk3lzZ/MySpotify)**: L'un de mes premiers projets en Flutter qui permeet comme Spotify de pouvoir écouter de la musique.
+- **[Trackap Police](https://trackap.com/police/)**: Un projet réalisé durant mon stage chez Trackap qui permet aux forces de l'ordre de retrouver un vélo volé.
 
 ### 🔗 Me trouver ailleurs
 
