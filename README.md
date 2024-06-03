@@ -12,7 +12,7 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C](https://img.shields.io/badge/-VS%20Code-000?&logo=c)
-![C++](https://img.shields.io/badge/C++.svg?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-VS%20Code-000?&logo=cplusplus)
 ![Lua](https://img.shields.io/badge/-VS%20Code-000?&logo=lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
