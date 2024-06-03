@@ -33,7 +33,7 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 ### 🏆 Réalisations et projets
 
 - **[Epitech 1st year](https://github.com/Sprk3lzZ/Epitech-2027/tree/main/Tek1)**: L'entièreté de mes projets de première année à Epitech Lille.
-- **[MySpotify](https://github.com/Sprk3lzZ/MySpotify)**: L'un de mes premiers projets en Flutter qui permeet comme Spotify de pouvoir écouter de la musique.
+- **[MySpotify](https://github.com/Sprk3lzZ/MySpotify)**: L'un de mes premiers projets en Flutter qui permet comme Spotify de pouvoir écouter de la musique.
 - **[Trackap Police](https://trackap.com/police/)**: Un projet réalisé durant mon stage chez Trackap qui permet aux forces de l'ordre de retrouver un vélo volé.
 
 ### 🔗 Me trouver ailleurs
