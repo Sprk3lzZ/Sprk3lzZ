@@ -16,7 +16,7 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
