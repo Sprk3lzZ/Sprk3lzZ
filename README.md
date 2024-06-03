@@ -1,37 +1,36 @@
-<h1 align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Welcome.gif" alt="Welcome"> <br>I'm Yanis ZEGHICHE - aka Sprk3lzZ. Welcome to my GitHub! 🤗</h1>
+# 👋 Salut, moi c'est YANIS ZEGHICHE!
 
-<h2> I'm an Epitech Student :) </h2>
+### 🚀 À propos de moi
 
-- 🚧 Current Project: CPOOL EPITECH, POC for Socianova, some projects to learn languages.
+Passionné de technologie et de développement, je suis toujours à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir. Voici un aperçu de ce que je fais :
 
-<p align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Matrix.gif" alt="Matrix" height="240px"/> </p>
+- 🌱 Actuellement, j'apprends tout ce qui touche à l'intelligence artificielle et au machine learning.
+- 🔭 Je travaille sur plusieurs projets open source et j'adore collaborer avec d'autres développeurs.
+- 💬 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet.
 
----
+### 🛠️ Technologies et outils
 
-<h3 align="left">Languages and Tools</h3>
-<p>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px" style="padding-right:10px;" />
-<img align="left" src="./img/python.svg" alt="Python" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="26px" style="padding-right:10px;"  />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26px" style="padding-right:10px;" />
-<img align="left" src="./img/terminal-light.svg#gh-light-mode-only" alt="Terminal" width="26px" style="padding-right:10px;" />
-<img align="left" src="./img/terminal-dark.svg#gh-dark-mode-only" alt="Terminal" width="26px" style="padding-right:10px;" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/langfr-1920px-Windows_logo_and_wordmark_-_2021.svg.png" alt="windows" width="75px" style="padding-right:10px;" />
-</p>
-<br />
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 
----
+### 📈 Statistiques GitHub
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yaniszeghiche/#gh-light-mode-only" target="blank"><img align="center" src="./img/linkedin-light.svg" alt="yaniszeghiche" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yaniszeghiche/#gh-dark-mode-only" target="blank"><img align="center" src="./img/linkedin-dark.svg" alt="yaniszeghiche" height="30" width="40" /></a>
-</p>
-</p>
-</p>
+![Les statistiques GitHub de [Votre Nom]](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)
+![Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical)
 
----
+### 🏆 Réalisations et projets
+
+- **[Nom du Projet 1](lien_vers_le_projet)**: Une courte description du projet et de ce qu'il accomplit.
+- **[Nom du Projet 2](lien_vers_le_projet)**: Une courte description du projet et de ce qu'il accomplit.
+- **[Nom du Projet 3](lien_vers_le_projet)**: Une courte description du projet et de ce qu'il accomplit.
+
+### 🔗 Me trouver ailleurs
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](votre_lien_linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](votre_lien_twitter)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=D14836)](mailto:votre_email)
