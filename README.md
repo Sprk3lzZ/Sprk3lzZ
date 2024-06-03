@@ -18,7 +18,9 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=dart)
+![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=dart)
+![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=flutter)
+![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=rest)
 
 ### 📈 Statistiques GitHub
 
