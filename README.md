@@ -13,14 +13,17 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-React-000?&logo=Angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=dart)
 
 ### 📈 Statistiques GitHub
 
 ![Les statistiques GitHub de [Votre Nom]](https://github-readme-stats.vercel.app/api?username=Sprk3lzZ&show_icons=true&theme=radical)
+
 ![Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Sprk3lzZ&layout=compact&theme=radical)
 
 ### 🏆 Réalisations et projets
@@ -31,6 +34,5 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 
 ### 🔗 Me trouver ailleurs
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](votre_lien_linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](votre_lien_twitter)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=D14836)](mailto:votre_email)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/yaniszeghiche/)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=D14836)](yanis@zeghiche.com)
