@@ -20,7 +20,7 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 ![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=dart)
 ![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=flutter)
-![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=rest)
+![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=api)
 
 ### 📈 Statistiques GitHub
 
