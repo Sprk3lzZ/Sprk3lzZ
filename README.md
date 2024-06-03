@@ -20,8 +20,8 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 
 ### 📈 Statistiques GitHub
 
-![Les statistiques GitHub de [Votre Nom]](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)
-![Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical)
+![Les statistiques GitHub de [Votre Nom]](https://github-readme-stats.vercel.app/api?username=Sprk3lzZ&show_icons=true&theme=radical)
+![Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Sprk3lzZ&layout=compact&theme=radical)
 
 ### 🏆 Réalisations et projets
 
