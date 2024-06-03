@@ -13,14 +13,15 @@ Passionné de technologie et de développement, je suis toujours à la recherche
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![React](https://img.shields.io/badge/-React-000?&logo=Angular)
+![Angular](https://img.shields.io/badge/-React-000?&logo=Angular)
+![Flutter](https://img.shields.io/badge/-VS%20Code-000?&logo=flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 ![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=dart)
-![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=flutter)
-![Dart](https://img.shields.io/badge/-VS%20Code-000?&logo=api)
+![C](https://img.shields.io/badge/-VS%20Code-000?&logo=c)
+![C++](https://img.shields.io/badge/-VS%20Code-000?&logo=cpp)
 
 ### 📈 Statistiques GitHub
 
