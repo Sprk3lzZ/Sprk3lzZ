@@ -1,42 +1,116 @@
-# 👋 Salut, moi c'est YANIS ZEGHICHE !
+<!-- Profile README for Yanis Zeghiche / recruiters-friendly, clean & scannable (English version) -->
 
-### 🚀 À propos de moi
 
-Passionné de technologie et de développement, je suis toujours à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir. Voici un aperçu de ce que je fais :
+<h1 align="center">👋 Hi, I'm <strong>Yanis Zeghiche</strong></h1>
+<p align="center">Versatile Developer — Frontend & Mobile — curious about everything, with a strong focus on <strong>product</strong>, <strong>quality</strong>, and <strong>impact</strong>.</p>
 
-- 🌱 Actuellement, j'apprends tout ce qui touche à l'intelligence artificielle au Scrum et au Lean Management.
-- 💬 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet.
 
-### 🛠️ Technologies et outils
+<p align="center">
+  <a href="https://www.linkedin.com/in/yaniszeghiche/">LinkedIn</a> ·
+  <a href="mailto:yanis@zeghiche.com">Email</a> ·
+  <a href="https://github.com/Sprk3lzZ">GitHub</a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![C](https://img.shields.io/badge/-C-000?&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 
-### 📈 Statistiques GitHub
 
-![Les statistiques GitHub de [Votre Nom]](https://github-readme-stats.vercel.app/api?username=Sprk3lzZ&show_icons=true&theme=radical)
+⸻
 
-![Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Sprk3lzZ&layout=compact&theme=radical)
+🚀 About Me
+	•	Currently improving my skills in AI/ML, Scrum, and Lean Management.
+	•	I enjoy turning an idea into a working prototype quickly and iterating with real users.
+	•	Looking for opportunities where I can learn fast, deliver, and raise the bar (code quality, DX, UX).
 
-### 🏆 Réalisations et projets
+⸻
 
-- **[Epitech 1st year](https://github.com/Sprk3lzZ/Epitech-2027/tree/main/Tek1)**: L'entièreté de mes projets de première année à Epitech Lille.
-- **[MySpotify](https://github.com/Sprk3lzZ/MySpotify)**: L'un de mes premiers projets en Flutter qui permet comme Spotify de pouvoir écouter de la musique.
-- **[Trackap Police](https://trackap.com/police/)**: Un projet réalisé durant mon stage chez Trackap qui permet aux forces de l'ordre de retrouver un vélo volé.
+🧰 Tech Stack & Tools
 
-### 🔗 Me trouver ailleurs
+Languages
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/yaniszeghiche/)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=D14836)](yanis@zeghiche.com)
+<p>
+  <img src="https://img.shields.io/badge/Python-000?logo=python" />
+  <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript" />
+  <img src="https://img.shields.io/badge/Dart-000?logo=dart" />
+  <img src="https://img.shields.io/badge/C-000?logo=c" />
+  <img src="https://img.shields.io/badge/C++-000?logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Lua-000?logo=lua" />
+</p>
+
+
+Frontend / Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/React-000?logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Angular-000?logo=angular" />
+  <img src="https://img.shields.io/badge/Flutter-000?logo=flutter" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss" />
+</p>
+
+
+Backend / Data
+
+<p>
+  <img src="https://img.shields.io/badge/NestJS-000?logo=nestjs" />
+  <img src="https://img.shields.io/badge/Node.js-000?logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Express-000?logo=express" />
+  <img src="https://img.shields.io/badge/Prisma-000?logo=prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-000?logo=mongodb" />
+  <img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi" />
+</p>
+
+
+Quality / DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Git-000?logo=git" />
+  <img src="https://img.shields.io/badge/Docker-000?logo=docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions" />
+  <img src="https://img.shields.io/badge/Jest-000?logo=jest" />
+  <img src="https://img.shields.io/badge/Playwright-000?logo=microsoftplaywright" />
+  <img src="https://img.shields.io/badge/VS%20Code-000?logo=visualstudiocode" />
+</p>
+
+
+
+⸻
+
+🏆 Selected Projects
+	•	Epitech — 1st year → C, C++, algorithms, architecture, coding discipline
+🔗 https://github.com/Sprk3lzZ/Epitech-2027/tree/main/Tek1
+	•	MySpotify (Flutter) → Music player app similar to Spotify (UI/UX, State mgmt)
+🔗 https://github.com/Sprk3lzZ/MySpotify
+	•	Trackap Police → Tool to help law enforcement recover stolen bikes (internship)
+🔗 https://trackap.com/police/
+
+<details>
+  <summary>+ Ideas & PoCs (AI / data-driven products)</summary>
+
+
+	•	Supply chain early-warning (news + weather + social signals → predictive alerts)
+	•	Trend predictor (TikTok / Google Trends / Spotify / YouTube)
+	•	Influence reset (gamified weekly ranking system)
+	•	Fake news detector (public datasets, real-time credibility scoring)
+
+</details>
+
+⸻
+
+🤝 What I’m Looking For
+	•	Internships / apprenticeships / missions in Frontend (React/Next.js), Mobile (Flutter) or Backend (NestJS/Node/Python).
+	•	A team where I can deliver quickly, document, test, and iterate close to users.
+
+📬 Contact
+	•	LinkedIn: https://www.linkedin.com/in/yaniszeghiche/
+	•	Email: mailto:yanis@zeghiche.com
+
+⸻
+
+Recruiter Notes
+	•	Availability: Open to opportunities and discussions.
+	•	Languages: 🇫🇷 French (native), 🇬🇧 English (professional).
+
+⸻
+
+Tip: If you’re reading this on my profile, click ★ on repos you like to keep them handy.
