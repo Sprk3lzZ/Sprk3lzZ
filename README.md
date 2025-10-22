@@ -34,6 +34,7 @@ Languages
   <img src="https://img.shields.io/badge/C-000?logo=c" />
   <img src="https://img.shields.io/badge/C++-000?logo=cplusplus" />
   <img src="https://img.shields.io/badge/Lua-000?logo=lua" />
+  <img src="https://img.shields.io/badge/Swift-000?logo=swift" />
 </p>
 
 
